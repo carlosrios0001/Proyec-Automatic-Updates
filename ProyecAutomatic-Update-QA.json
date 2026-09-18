@@ -1,0 +1,15 @@
+{
+  "canal": "prueba",
+  "detalle_url": "",
+  "firma": "d8ujTeZi75corudc5dEnu2jCUFKC+f0GSQ4KTqDt+irBXi1ohU5lO+6IUuyahVGTWjdgqkZYkpvaHN/Zb2fYBQ==",
+  "firma_algoritmo": "ed25519",
+  "firma_key_id": "pa-release-2026-09",
+  "novedades": [],
+  "paquete_url": "https://github.com/carlosrios0001/Proyec-Automatic-Updates/releases/download/v14.12.5-qa1/PA_Update_14.12.5.zip",
+  "producto": "proyec-automatic",
+  "publicada": "2026-09-18",
+  "schema": 2,
+  "sha256": "2EFBD14261F7A08DC8CC7ADF11661BD1266C9A91210249DFCBF7EADC157550D6",
+  "titulo": "Proyec Automatic 14.12.0 · Rev 5 · QA piloto",
+  "version": "14.12.5"
+}
